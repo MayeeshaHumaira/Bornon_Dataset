@@ -12,4 +12,4 @@ Around 17 people who are native Bengali speakers were responsible for annotating
 
 * If you wish to use this dataset please cite this <a href="Houses_with_Lighting_CameraMovement_Texture/visualization.pdf">paper</a>.
 * The images o this dataset can be found <a href="https://drive.google.com/drive/folders/1FWR4RhzxRooiCMmpdfFDM592hHWpYy4c?usp=sharing">here</a>.
-* The txt files can be found <a href="https://drive.google.com/drive/folders/1FWR4RhzxRooiCMmpdfFDM592hHWpYy4c?usp=sharing">here</a>.
+* The txt files can be found <a href="textFile/">here</a>.
